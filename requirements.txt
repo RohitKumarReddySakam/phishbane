@@ -1,6 +1,6 @@
 flask==3.0.3
 pandas>=2.0.0
-numpy>=1.26.0
+numpy>=2.4.4
 scikit-learn>=1.4.0
 requests>=2.32.0
 beautifulsoup4>=4.12.0
